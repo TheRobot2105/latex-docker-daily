@@ -2,7 +2,7 @@
 
 [![GitHub Actions Status](https://github.com/therobot2105/latex-docker-weekly/workflows/Build%20Docker%20Image/badge.svg)](https://github.com/therobot2105/latex-docker-weekly/actions)
 
-Weekly Docker Image of [TeXLive](https://tug.org/texlive/).
+Daily Docker Image of [TeXLive](https://tug.org/texlive/).
 
 If you want to use a monthly Docker Image look at [this Repostory](https://github.com/xu-cheng/latex-docker).
 
